@@ -235,6 +235,7 @@
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -734,6 +735,7 @@
       "sourceLibraryName": "Apple iOS UI",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -1289,14 +1291,19 @@
     ]
   },
   "meta": {
-    "appVersion": "53.2",
-    "build": 72643,
-    "version": 116
+    "appVersion": "55",
+    "build": 78076,
+    "version": 118
   },
   "pages": [
     "Master",
     "Wireframes",
     "Designs",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
