@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CDC618F9-E77A-4D46-B850-822543AAB150",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13470963-E24B-47CD-9A1A-EA1D11E140BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F723A01F-A2B9-42C2-A0D5-9EA2D4E12F97",
+    "height": 8.402763532763545,
+    "width": 21.67028490028491,
+    "x": 36.26455840455836,
+    "y": 2.039743589743622
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EE70CF12-C843-4985-A536-B4F5566FE15C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "164E505A-8D9D-4DFD-84D6-FFD67B303273"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7F81627-A8E0-4B54-8CA2-14866DF20B13"
+    }
+  ],
+  "name": "Battery Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B4A6DA5C-0EB4-483F-9822-4FF33760D064",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E4562604-4FED-481E-A3C1-0C38AED2D6E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

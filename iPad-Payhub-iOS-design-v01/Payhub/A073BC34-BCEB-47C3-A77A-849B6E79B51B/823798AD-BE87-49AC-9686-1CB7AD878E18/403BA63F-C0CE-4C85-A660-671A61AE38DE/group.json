@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "403BA63F-C0CE-4C85-A660-671A61AE38DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "850BF145-DDB0-4492-BDA7-8426CC93B19F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE9B9309-1568-4577-AE26-6C0A9B17684C",
+    "height": 21,
+    "width": 18,
+    "x": 28,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8A0F075F-CE58-4665-83AA-810B4CD44B4D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C557982-4DE2-4C25-9709-AB53D03B0256"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D78B2952-1A6C-4575-9B79-703BA7795AA6"
+    }
+  ],
+  "name": "payment icon",
+  "nameIsFixed": false,
+  "originalObjectID": "397F6558-11F8-406D-A462-5727916A979F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "06F21611-1FBC-4FD7-BB46-ECECC54C89EC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.595959595959595,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "CE4DDF82-DCAC-4BB9-A41D-5D424EE09B3D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

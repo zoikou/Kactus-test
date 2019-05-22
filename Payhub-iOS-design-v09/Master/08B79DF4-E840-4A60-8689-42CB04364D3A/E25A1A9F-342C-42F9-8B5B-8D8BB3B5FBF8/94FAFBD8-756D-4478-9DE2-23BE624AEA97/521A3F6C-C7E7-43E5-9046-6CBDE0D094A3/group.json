@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "521A3F6C-C7E7-43E5-9046-6CBDE0D094A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03627160-807A-4068-87B5-C6E6BEC7892E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A66B1B6-B05E-4492-9C57-8AC66EECD561",
+    "height": 5,
+    "width": 30,
+    "x": 0,
+    "y": 3.801040088960349
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F87C4994-0AC4-4526-B7A8-BBF791542B1D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "501A2F7C-EC13-48D2-AED4-5DE33362660D"
+    },
+    {
+      "class": "oval",
+      "id": "0E0036CD-16F3-40C6-9D0E-66ED0029222C"
+    },
+    {
+      "class": "oval",
+      "id": "7DB2884D-915F-4FCB-8B4A-B17D7FE385A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7518CC80-C998-4E30-85A3-56463288C378"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97EBFEE1-7AF5-4472-8A3B-6354949F0D32"
+    }
+  ],
+  "name": "Signal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "22C77CFD-82D1-4985-8EED-BEACD6638B35",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B629514C-9F7D-406B-BB77-B673D36D6EA4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
